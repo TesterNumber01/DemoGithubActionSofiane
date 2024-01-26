@@ -36,3 +36,9 @@ build/
 
 ### Mac OS ###
 .DS_Store
+# Compiled Java classes
+*.class
+# Build directory
+target/
+# IntelliJ IDEA specific files
+.idea/
